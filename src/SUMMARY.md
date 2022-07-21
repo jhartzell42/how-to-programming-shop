@@ -9,18 +9,17 @@
 # The Code
 
 - [Build System](build-systems.md)
-- [Version Control]()
-    - [Branching Models]()
-    - [CI]()
-    - [Code Review]()
-- [Testing]()
+- [Version Control](versions.md)
+    - [Branching Models](branching.md)
+    - [CI](ci.md)
+    - [Code Review](code-review.md)
+- [Testing](testing.md)
 
 # The Docs
 
-- [The Lede]()
-- [The Structure]()
+- [Documentation](docs.md)
 
 # The Project Management
 
-- [Ticket Systems]()
+- [Ticket Systems](ticket-systems.md)
 - [Meetings]()
