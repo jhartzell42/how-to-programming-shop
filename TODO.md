@@ -1,20 +1,8 @@
 * Revise in blog post on Napoleon
-    * Worked-out example of bad documentation
-        * Turn it into good documentation
-            * In multiple steps, write the lede
-            * Good documentation is already in there
-        * About a protocol?
-            * Describes all the wire formats
-            * Never describes what the wire format is for
-    * Discuss why people don't list the lede stuff
-        * People write notes for themselves
-            * They write down the things they're likely to forget
-            * Lede information you are very unlikely to forget
-            * Details you are very likely to forget
-        * However, the things they do write down are not as important to write
-            * Details can be found from the code
-                * Details are more likely to be redundant to the code
-                    * Redundant = drift
+    * Finish the TODO sections.
+    * Potentially add additional questions for lede paragraphs.
+    * Include the part of blog post that shows Wikipedia's real lede about Napoleon.
+    * Revise more.
 * Figure out where to put "reproducibility"
 * How to teach (especially programming)
     * Teaching is different from documentation
