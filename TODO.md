@@ -3,6 +3,7 @@
     * Potentially add additional questions for lede paragraphs.
     * Include the part of blog post that shows Wikipedia's real lede about Napoleon.
     * Revise more.
+* Grab material back from Savant codex
 * Figure out where to put "reproducibility"
 * How to teach (especially programming)
     * Teaching is different from documentation
@@ -27,6 +28,8 @@
             * Yocto commands can then be explained relative to its goals
             * The example projects can then be chosen relative to its goals
 * Go revise each section
+    * Consider making it less of a check-list
+    * Consider doubling down on check-list-ism
 * Discuss Foundation Team
 * Discuss hiring dev-ops professionals
 * Discuss On-Call
