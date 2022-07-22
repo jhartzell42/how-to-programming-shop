@@ -18,6 +18,7 @@
 # The Docs
 
 - [Documentation](docs.md)
+    - [The Lede](lede.md)
 
 # The Project Management
 
