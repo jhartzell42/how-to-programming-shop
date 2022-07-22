@@ -1,3 +1,4 @@
+* Replace `*` with subheaders for all the checklist items
 * Revise in blog post on Napoleon
     * Finish the TODO sections.
     * Potentially add additional questions for lede paragraphs.
