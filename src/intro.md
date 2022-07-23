@@ -1,7 +1,7 @@
 # Introduction
 
 I have worked on a lot of programming projects in my time, and while I
-was a programming consultant I have worked in a lot of different corporate
+was a programming consultant I worked in a lot of different corporate
 environments. At some of them, it was easy to be concretely productive:
 I was able to contribute immediately, and at a rapid rate. At others,
 actual useful contributions would be impossible until I had a month or
