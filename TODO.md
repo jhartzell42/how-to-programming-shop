@@ -1,11 +1,10 @@
-* Replace `*` with subheaders for all the checklist items
-* Revise in blog post on Napoleon
-    * Finish the TODO sections.
-    * Potentially add additional questions for lede paragraphs.
-    * Include the part of blog post that shows Wikipedia's real lede about Napoleon.
-    * Revise more.
+* Talk about technical debt
 * Grab material back from Savant codex
 * Figure out where to put "reproducibility"
+* Replace `*` with subheaders for all the checklist items?
+* Writing project plans in programming
+    * Influence of basecamp
+    * Influence of Karen the boss lady
 * How to teach (especially programming)
     * Teaching is different from documentation
         * Based off of Yocto training experience
@@ -34,3 +33,8 @@
 * Discuss Foundation Team
 * Discuss hiring dev-ops professionals
 * Discuss On-Call
+* Revise in blog post on Napoleon
+    * Better examples
+    * Potentially add additional questions for lede paragraphs.
+    * Include the part of blog post that shows Wikipedia's real lede about Napoleon.
+    * Revise more.

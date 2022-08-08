@@ -53,9 +53,8 @@ being moved between which places?
 
 ## Reasons for Lede-Burying
 
-I understand why documentation is written like this. I understand
-why it skips over basic questions. It comes from a
-few different places:
+I understand why documentation is written like this. I understand why
+it skips over basic questions. It comes from a few different places:
 
 1. We are trained to not state the obvious.
 
@@ -133,7 +132,15 @@ listing the many forms of his name, is that he was "a French military
 and political leader." You might not realize that from seeing that he
 grew up on Corsica. Strictly speaking, you could potentially mention that
 he's a human beforehand, but that might actually be too obvious even
-for a lede paragraph.
+for a lede paragraph, or perhaps just implied by "French."
+
+You would not imagine how confusing this can be if you don't do this.
+I've sometimes heard a famous person discussed in detail, and not
+known if they were a musician or a politician (they turned out to be
+a comedian). I've often heard people drop acronyms, and assumed they
+represented pieces of software maintained outside the company, when they
+turned out to represent protocols, or software maintained inside the
+company, or even common communication problems.
 
 So let's start to write our new lede paragraph for this protocol:
 
@@ -174,21 +181,20 @@ a good job at it? How can we make it do a better job?
 So this comes next: Why does this protocol or application exist? What
 problem is it trying to solve? This goes at all levels, not just the
 top level of documentation. Our example bad documentation leaves
-this question unanswered at many levels:
+this question unanswered at many levels; not only does the document
+lack a lede, but each subsection needs a bit of context as well:
 
 * What problem is the protocol trying to solve?
 * What problem is the go-ahead message trying to solve?
 * What problem is the ID field trying to solve?
 
-TODO: Expand example.
-
 3. What is its position within the greater system?
+
+This is connected in practice to what problem it's trying to solve.
 
 * Who uses it?
 * Is it user-facing, or internal?
 * Server-side or client-side?
-
-TODO: Expand example.
 
 4. What technologies is it layered on top of?
 
@@ -196,8 +202,6 @@ TODO: Expand example.
 * What platform is it supposed to run on?
 
 This is where we can start writing about UDP and TCP.
-
-TODO: Expand example.
 
 ## Other Examples of Lede Paragraphs
 
@@ -219,3 +223,21 @@ TODO: Expand example.
 > it will eventually be integrated into the main repo. It is a research
 > project still under active development. It is written in Haskell
 > and Idris, and contains, as a component, a custom Prolog interpreter.
+
+And, of course, the actual Wikipedia lede about Napoleon, which is quite
+good and which our hypothetical reader shouldn't have skipped over:
+
+> Napoleon Bonaparte (born Napoleone di Buonaparte; 15 August 1769 – 5 May
+> 1821) was a French military and political leader who rose to prominence
+> during the French Revolution and led several successful campaigns during
+> the Revolutionary Wars. He was the de facto leader of the French Republic
+> as First Consul from 1799 to 1804. As Napoleon I, he was Emperor of
+> the French from 1804 until 1814 and again in 1815. Napoleon dominated
+> European and global affairs for more than a decade while leading France
+> against a series of coalitions in the Napoleonic Wars. He won most of
+> these wars and the vast majority of his battles, building a large empire
+> that ruled over continental Europe before its final collapse in 1815. He
+> was one of the greatest military commanders in history, and his wars
+> and campaigns are studied in military schools worldwide. Napoleon's
+> political and cultural legacy has endured, and he has been one of the
+> most celebrated and controversial leaders in world history.
